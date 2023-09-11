@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm currently learning Python
+I have worked with PHP, Laravel, Javascript, CSS, MySQL, MSSQL
+I'm currently learning Python and Learning more about DevOps
