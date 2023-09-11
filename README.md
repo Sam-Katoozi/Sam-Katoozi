@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I have worked with PHP, Laravel, Javascript, CSS, MySQL, MSSQL
-I'm currently learning Python and Learning more about DevOps
+I'm currently learning Python and more about DevOps
